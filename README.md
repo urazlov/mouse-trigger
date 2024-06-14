@@ -1,7 +1,7 @@
 
 # Mouse Trigger Utility
 
-This is a simple Go utility that moves the mouse cursor left and right every 10 seconds.
+This is a simple Go utility that moves the mouse cursor left and right every seconds that you enter.
 
 ## Usage
 
